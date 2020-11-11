@@ -28,5 +28,5 @@ A double pendulum simulation in MATLAB which demonstrates the chaotic nature of 
 - Euler's Method: A first-order ode solver method which is less accurate and not desirable for chaotic systems given the large impact small changes lead to
 - 4th-order Runge-Kutta (RK4): A fourth-order ode solver method that gives much more accurate results with minimal truncation errors
 
-The preferred ode-solver method can be chosen by commenting out the other method in the main file. By default "Euler's Method" is commented out and RK4 is used
+The preferred ode-solver method can be chosen by commenting out the other method in the main file. By default, "Euler's Method" is commented out and RK4 is used.
   
