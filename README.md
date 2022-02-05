@@ -1,5 +1,7 @@
 # double-pendulum-simulation
 
+![alt text](samplerun.gif)
+
 <b> Note: A detailed PDF report for this project is included in this repository. </b> 
 
 A double pendulum simulation in MATLAB which demonstrates the chaotic nature of the system
