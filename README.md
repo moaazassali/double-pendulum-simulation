@@ -1,6 +1,6 @@
 # double-pendulum-simulation
 
-![alt text](samplerun.gif)
+![alt text](sample.gif)
 
 <b> Note: A detailed PDF report for this project is included in this repository. </b> 
 
